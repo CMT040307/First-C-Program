@@ -5,15 +5,15 @@ int main()
 {
 
     string name;
-    double eng_grade;
-    double mth_grade;
-    double sci_grade;
-    cout << "English Grade (out of 100)\n" << end;;
-    cin >> eng_grade;
-    cout << "Maths Grade (out of 100)\n" << endl;
-    cin >> mth_grade;
-    cout << "Science Grade (out of 100)\n" << endl;
-    cin >> sci_grade;
+    double eng_score;
+    double mth_score;
+    double sci_score;
+    cout << "English score (out of 100)\n" << end;;
+    cin >> eng_score;
+    cout << "Maths score (out of 100)\n" << endl;
+    cin >> mth_score;
+    cout << "Science score (out of 100)\n" << endl;
+    cin >> sci_score;
     return 0;
     
 }
