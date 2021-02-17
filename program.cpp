@@ -8,7 +8,7 @@ int main()
     double eng_score;
     double mth_score;
     double sci_score;
-    cout << "English score (out of 100)\n" << end;;
+    cout << "English score (out of 100)\n" << endl;
     cin >> eng_score;
     cout << "Maths score (out of 100)\n" << endl;
     cin >> mth_score;
